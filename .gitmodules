@@ -1,0 +1,12 @@
+[submodule "third-party/glfw"]
+	path = third-party/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "third-party/glad"]
+	path = third-party/glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "third-party/stb"]
+	path = third-party/stb
+	url = https://github.com/nothings/stb
+[submodule "third-party/glm"]
+	path = third-party/glm
+	url = https://github.com/g-truc/glm.git
